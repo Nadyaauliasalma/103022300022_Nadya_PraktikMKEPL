@@ -1,4 +1,4 @@
-package src.test.java.Counter;
+package src.test.java;
 
 import static org.junit.Assert.*;
 import src.main.java.*;
