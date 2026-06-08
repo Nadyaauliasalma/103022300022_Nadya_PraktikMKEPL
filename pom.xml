@@ -9,13 +9,14 @@
     <groupId>junit</groupId>
     <artifactId>junit</artifactId>
     <version>4.11</version> <!-- Or whatever JUnit you're using. -->
+	  <scope></scope>
 	</dependency>
 </dependencies>
 
 <distributionManagement>
     <repository>
       <id>github</id>
-      <name>GitHub Packages</name>
+      <name>Nadyaauliasalma</name>
       <url>https://github.com/Nadyaauliasalma/103022300022_Nadya_PraktikMKEPL.git</url>
     </repository>
   </distributionManagement>
